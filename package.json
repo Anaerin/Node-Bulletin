@@ -1,0 +1,19 @@
+{
+  "name": "node-forum",
+  "version": "1.0.0",
+  "description": "A bulletin-board style forum system, with realtime updating and notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "udp",
+    "multicast",
+    "forum"
+  ],
+  "author": "Robert Johnston",
+  "license": "ISC",
+  "type": "module"
+}
