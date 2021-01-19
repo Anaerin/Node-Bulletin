@@ -18,6 +18,6 @@ Multicast is clearly the proper way to do this, with the listeners subscribing t
 
 What else?
 ----------
-Well, I'm hoping it'll be as clear and information dense as old vBulletin forums, as opposed to more "modern" frontends like NodeBB, Discourse and the like. So full-wide pages with clear information, and with capability to skin as you like using modern CSS and simple HTML. Image uploading and hosting built in, full edit history, extensive moderation options, multiple user levels and groups, multiple backend database type support (in theory, anything supported by Sequelize, from sqlite all the way up to Postgres/MSSQL), and scalability.
+Well, I'm hoping it'll be as clear and information dense as old vBulletin forums, as opposed to more "modern" frontends like NodeBB, Discourse and the like. So full-wide pages with clear information, and with capability to skin as you like using modern CSS and simple HTML. Message composition and editing in simple Markdown, Image uploading and hosting built in, full edit history, extensive moderation options, multiple user levels and groups, multiple backend database type support (in theory, anything supported by Sequelize, from sqlite all the way up to Postgres/MSSQL), and scalability.
 
 Of course, that's all aspirational right now. I'm just getting started, and hopefully I'll have the impetus to keep this going 'til it's a finished product.
